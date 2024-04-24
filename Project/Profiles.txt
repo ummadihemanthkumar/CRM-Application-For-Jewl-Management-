@@ -1,7 +1,23 @@
-Name of the student:
-Learning track:
-Project name:
-Trailhead profile:
-Developer org username:
-Developer org password:
+Name of the student: Ummadihemanthkumar
+Learning track:Admin
+Project name:CRM-Application-For-Jewl-Management
+Trailhead profile: https://www.salesforce.com/trailblazer/hemanthkumarummadi
+Developer org username:uhemanthkumar@gdcproject.com
+Developer org password: Gayatri@123
 Position: Team leader
+
+Name of the student: Shaik mohammad shareef
+Learning track:Admin
+Project name:CRM-Application-For-Jewl-Management
+Trailhead profile: https://www.salesforce.com/trailblazer/shaikmohammadshareef
+Developer org username:haseena4505@gdcproject.com
+Developer org password: Gayatri@123
+Position: Team member
+
+Name of the student: gnaveenkumar
+Learning track:Admin
+Project name:CRM-Application-For-Jewl-Management
+Trailhead profile: https://www.salesforce.com/trailblazer/gnaveenkumar
+Developer org username:gnaveenkumarnaveen4505@gdcproject.com
+Developer org password: Gayatri@123
+Position: Team member
